@@ -7,10 +7,15 @@
   "sha256": "PUT_THE_REAL_SHA256_HASH_HERE",
   "mandatory": false,
   "changelog": [
-    "១ 🚀 គាំទ្រការទាញយកវីដេអូ/ចម្រៀងពី ១០ ផ្លាតហ្វម (YouTube, TikTok, Facebook, IG, Pinterest, Dailymotion, DramaBox, ReelShort, ShortTV, RushTv)",
-    "២ 🔄 ប្រព័ន្ធ Auto Update ស្វ័យប្រវត្តិ ឆាប់រហ័ស ស្ងាត់ក្នុង Background និងបង្កើត Desktop Shortcut ដោយស្វ័យប្រវត្តិ",
-    "៣ 🛠️ កែសម្រួលការទាញយក YouTube Shorts, Short URLs (youtu.be) និងបញ្ហាទាញយក Playlist",
-    "៤ ⚡ បង្កើនល្បឿនទាញយកច្រើន Fiber Multi-threading និងមុខងារ Extract Subtitle ភាសាខ្មែរ/អង់គ្លេស",
-    "៥ 🎨 តុបតែង UI Modern Dark-Mode, Progress Bar និង Speed Indicator ឱ្យកាន់តែរលូន"
+    "១ 
+    🚀 គាំទ្រការទាញយកវីដេអូ/ចម្រៀងពី ១០ ផ្លាតហ្វម (YouTube, TikTok, Facebook, IG, Pinterest, Dailymotion, DramaBox, ReelShort, ShortTV, RushTv)",
+    "២ 
+  🔄 ប្រព័ន្ធ Auto Update ស្វ័យប្រវត្តិ ឆាប់រហ័ស ស្ងាត់ក្នុង Background និងបង្កើត Desktop Shortcut ដោយស្វ័យប្រវត្តិ",
+    "៣ 
+  🛠️ កែសម្រួលការទាញយក YouTube Shorts, Short URLs (youtu.be) និងបញ្ហាទាញយក Playlist",
+    "៤ 
+  ⚡ បង្កើនល្បឿនទាញយកច្រើន Fiber Multi-threading និងមុខងារ Extract Subtitle ភាសាខ្មែរ/អង់គ្លេស",
+    "៥ 
+  🎨 តុបតែង UI Modern Dark-Mode, Progress Bar និង Speed Indicator ឱ្យកាន់តែរលូន"
   ]
 }
