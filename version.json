@@ -1,14 +1,16 @@
 {
   "version": "1.0.2",
-  "release_date": "2026-08-02",
-  "download_url": "https://github.com/chheanglyfb2022-cmyk/Media-VIP-Downloader/releases/download/Media-VIP-Downloader/Media-VIP-Downloader_Setup_v1.0.1.exe",
-  "asset_name": "MyApplication.exe",
-  "file_size": 52428800,
+  "release_date": "03/08/2026",
+  "download_url": "https://github.com/chheanglyfb2022-cmyk/-Media-VIP-Downloader/releases/download/v1.0.2/Media-VIP-Downloader_Setup_v1.0.2.exe",
+  "asset_name": "Media-VIP-Downloader_Setup_v1.0.2.exe",
+  "file_size": 146800640,
   "sha256": "PUT_THE_REAL_SHA256_HASH_HERE",
   "mandatory": false,
   "changelog": [
-    "បានបន្ថែមមុខងារ Auto Update ស្វ័យប្រវត្តិ",
-    "បានកែប្រែបញ្ហាកម្មវិធីគាំង និងបង្កើនល្បឿន",
-    "បានកែលម្អ UI, Download Progress និង Speed Indicator"
+    "🚀 គាំទ្រការទាញយកវីដេអូ/ចម្រៀងពី ១០ ផ្លាតហ្វម (YouTube, TikTok, Facebook, IG, Pinterest, Dailymotion, DramaBox, ReelShort, ShortTV, RushTv)",
+    "🔄 ប្រព័ន្ធ Auto Update ស្វ័យប្រវត្តិ ឆាប់រហ័ស ស្ងាត់ក្នុង Background និងបង្កើត Desktop Shortcut ដោយស្វ័យប្រវត្តិ",
+    "🛠️ កែសម្រួលការទាញយក YouTube Shorts, Short URLs (youtu.be) និងបញ្ហាទាញយក Playlist",
+    "⚡ បង្កើនល្បឿនទាញយកច្រើន Fiber Multi-threading និងមុខងារ Extract Subtitle ភាសាខ្មែរ/អង់គ្លេស",
+    "🎨 តុបតែង UI Modern Dark-Mode, Progress Bar និង Speed Indicator ឱ្យកាន់តែរលូន"
   ]
 }
